@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Accents -->
+    <color name="primary">#0F172A</color>          <!-- Deep Slate -->
+    <color name="primary_light">#1E293B</color>
+    <color name="accent_green">#15803D</color>     <!-- Forest Green for Active / Unlock -->
+    <color name="accent_green_light">#DCFCE7</color>
+    <color name="accent_amber">#B45309</color>     <!-- Amber for Attention/Pending -->
+    <color name="accent_amber_light">#FEF3C7</color>
+
+    <!-- Surfaces & Neutrals -->
+    <color name="surface_bg">#F8FAFC</color>       <!-- Neutral soft off-white canvas -->
+    <color name="surface_card">#FFFFFF</color>     <!-- Pure white card -->
+    <color name="border_subtle">#E2E8F0</color>    <!-- Hairline divider / border -->
+
+    <!-- High-Contrast Text -->
+    <color name="text_primary">#0F172A</color>     <!-- Jet Slate for 100% legibility -->
+    <color name="text_secondary">#475569</color>   <!-- Readable slate gray -->
+    <color name="text_hint">#94A3B8</color>
+</resources>
